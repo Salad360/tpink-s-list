@@ -1,0 +1,1 @@
+# A collection of useful IP lists parsable by FortiOS and updated whenever I feel like it. 
